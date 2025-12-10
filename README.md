@@ -1,4 +1,4 @@
-# AIMLAM_Multimodal_Dataset
+# AIMLAB_Multimodal_Dataset
 옴니시엔에스와의 멀티모달 데이터셋 데이터통신을 위한 API
 
 ## 프로젝트 구조
