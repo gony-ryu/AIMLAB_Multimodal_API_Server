@@ -39,6 +39,7 @@ git clone https://github.com/gony-ryu/AIMLAB_Multimodal_API_Server.git
 $ conda create -n Server(이름은 아무거나 상관 없습니다)
 # 만약 섞여도 상관 없다면 가상환경은 설치 안해도 상관 없습니다)
 $ conda install -c conda-forge nodejs=18
+$ npm install dotenv
 
 ```
 
